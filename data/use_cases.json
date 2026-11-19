@@ -1,0 +1,8 @@
+[
+  {"name": "Assistant procédures Supply Chain", "domain": "productivite_interne", "interacts_with_people": true, "generates_content": true, "personal_data": false},
+  {"name": "Brouillons de réponses aux fournisseurs", "domain": "productivite_interne", "generates_content": true, "personal_data": true},
+  {"name": "Résumé automatique de réunions internes", "domain": "productivite_interne", "generates_content": true, "personal_data": true},
+  {"name": "Tri automatique des CV candidats", "domain": "rh_recrutement", "personal_data": true},
+  {"name": "Analyse des émotions des opérateurs par caméra", "domain": "rh_decision", "emotion_recognition_workplace": true, "personal_data": true},
+  {"name": "Détection d'obstacles par IA sur une machine de manutention", "domain": "securite_produit", "safety_component_of_product": true}
+]

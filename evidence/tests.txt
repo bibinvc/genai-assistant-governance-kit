@@ -1,0 +1,29 @@
+test_bad_json_stops_the_run (test_kit.AgentTests.test_bad_json_stops_the_run) ... ok
+test_invalid_reference_is_rejected (test_kit.AgentTests.test_invalid_reference_is_rejected) ... ok
+test_scripted_tool_call_then_answer (test_kit.AgentTests.test_scripted_tool_call_then_answer) ... ok
+test_step_limit (test_kit.AgentTests.test_step_limit) ... ok
+test_ticket_is_only_a_draft (test_kit.AgentTests.test_ticket_is_only_a_draft) ... ok
+test_unknown_tool_stops_the_run (test_kit.AgentTests.test_unknown_tool_stops_the_run) ... ok
+test_dates_after_the_digital_omnibus (test_kit.AiActTests.test_dates_after_the_digital_omnibus) ... ok
+test_levels (test_kit.AiActTests.test_levels) ... ok
+test_personal_data_adds_gdpr_action (test_kit.AiActTests.test_personal_data_adds_gdpr_action) ... ok
+test_answers_with_source_and_transparency_notice (test_kit.AssistantTests.test_answers_with_source_and_transparency_notice) ... ok
+test_external_provider_never_sees_confidential_passages (test_kit.AssistantTests.test_external_provider_never_sees_confidential_passages) ... ok
+test_invented_source_from_the_model_is_blocked (test_kit.AssistantTests.test_invented_source_from_the_model_is_blocked) ... ok
+test_personal_data_is_masked_before_the_model_and_in_the_audit_log (test_kit.AssistantTests.test_personal_data_is_masked_before_the_model_and_in_the_audit_log) ... ok
+test_refuses_out_of_scope (test_kit.AssistantTests.test_refuses_out_of_scope) ... ok
+test_secret_document_is_never_indexed (test_kit.AssistantTests.test_secret_document_is_never_indexed) ... ok
+test_answer_check_rejects_missing_or_unknown_sources (test_kit.GuardrailTests.test_answer_check_rejects_missing_or_unknown_sources) ... ok
+test_card_numbers_need_a_valid_luhn_checksum (test_kit.GuardrailTests.test_card_numbers_need_a_valid_luhn_checksum) ... ok
+test_confidentiality_levels_by_provider (test_kit.GuardrailTests.test_confidentiality_levels_by_provider) ... ok
+test_french_social_security_number (test_kit.GuardrailTests.test_french_social_security_number) ... ok
+test_masks_email_phone_iban_secret_and_restores (test_kit.GuardrailTests.test_masks_email_phone_iban_secret_and_restores) ... ok
+test_same_value_gets_same_placeholder (test_kit.GuardrailTests.test_same_value_gets_same_placeholder) ... ok
+test_bank_change_alert (test_kit.WorkflowTests.test_bank_change_alert) ... ok
+test_categories_of_sample_emails (test_kit.WorkflowTests.test_categories_of_sample_emails) ... ok
+test_triage_masks_classifies_and_waits_for_approval (test_kit.WorkflowTests.test_triage_masks_classifies_and_waits_for_approval) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.033s
+
+OK

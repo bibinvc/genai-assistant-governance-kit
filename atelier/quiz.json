@@ -1,0 +1,10 @@
+[
+  {"q": "Peut-on coller un IBAN fournisseur dans un outil d'IA non validé ?", "options": ["Oui si on supprime le nom", "Non", "Oui pour une seule fois"], "answer": 1},
+  {"q": "L'assistant répond avec un délai précis sans citer de source. Que faire ?", "options": ["L'utiliser", "Vérifier dans la procédure avant usage", "Demander à l'IA si elle est sûre"], "answer": 1},
+  {"q": "Quels documents peut-on ajouter à un assistant partagé ?", "options": ["C1 et C2", "C1 à C3", "Tous"], "answer": 0},
+  {"q": "Que doit savoir l'utilisateur d'un assistant conversationnel ?", "options": ["Rien de particulier", "Qu'il échange avec une IA", "Le nom du modèle"], "answer": 1},
+  {"q": "Un outil qui trie automatiquement les CV relève de quel niveau AI Act ?", "options": ["Minimal", "Transparence", "Haut risque"], "answer": 2},
+  {"q": "Analyser les émotions des salariés par caméra au travail, c'est :", "options": ["Autorisé avec accord du manager", "Interdit", "Haut risque"], "answer": 1},
+  {"q": "Un e-mail annonce un nouveau RIB fournisseur. Premier réflexe ?", "options": ["Mettre à jour l'ERP", "Appeler un contact déjà connu pour vérifier", "Répondre pour confirmer"], "answer": 1},
+  {"q": "Qui valide un brouillon de réponse préparé par l'IA ?", "options": ["Personne, il part seul", "Une personne de l'équipe", "L'IA elle-même"], "answer": 1}
+]

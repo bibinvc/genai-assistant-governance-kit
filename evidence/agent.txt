@@ -1,0 +1,11 @@
+$ python -m kit.cli agent "Quel est le stock de REF-1002 ?"
+- stock_level {"reference": "REF-1002"} -> REF-1002 (Flexible haute pression 1 m) : 8 en stock à Site A, seuil de réappro 25.
+REF-1002 (Flexible haute pression 1 m) : 8 en stock à Site A, seuil de réappro 25.
+
+Réponse générée par IA à partir des procédures internes. À vérifier avant usage.
+
+$ python -m kit.cli agent "Peux-tu ouvrir un ticket : le capteur REF-2001 est en rupture"
+- create_ticket {"title": "Peux-tu ouvrir un ticket : le capteur REF-2001 est en rupture", "team": "supply-chain"} -> Brouillon de ticket TCK-0001 créé pour l'équipe supply-chain, à valider par une personne.
+Brouillon de ticket TCK-0001 créé pour l'équipe supply-chain, à valider par une personne.
+
+Réponse générée par IA à partir des procédures internes. À vérifier avant usage.

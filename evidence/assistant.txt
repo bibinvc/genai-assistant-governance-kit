@@ -1,0 +1,9 @@
+$ python -m kit.cli ask "Que faire si un colis arrive endommagé ?"
+Émettre des réserves précises sur le bon du transporteur avant de signer. [source: reception-marchandises.md] Prendre trois photos : étiquette, emballage, produit. [source: reception-marchandises.md]
+
+Réponse générée par IA à partir des procédures internes. À vérifier avant usage.
+
+$ python -m kit.cli ask "Quel est le menu de la cantine vendredi ?"
+Je ne trouve pas cette information dans les procédures disponibles.
+
+Réponse générée par IA à partir des procédures internes. À vérifier avant usage.

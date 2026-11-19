@@ -1,0 +1,16 @@
+$ python -m kit.cli triage
+email_01: retard, masked {'EMAIL': 1, 'TEL': 1}, status en_attente
+email_02: facture, masked {'EMAIL': 1, 'IBAN': 1}, status en_attente
+  ALERTE: Changement de coordonnées bancaires annoncé par e-mail : vérifier par téléphone auprès d'un contact déjà connu avant toute modification (risque de fraude au virement).
+email_03: qualite, masked {'TEL': 1}, status en_attente
+email_04: autre, masked {}, status en_attente
+
+$ python -m kit.cli approve email_01 "Relecteur Achats"
+out/outbox/email_01.txt
+
+Bonjour Claire Martin,
+
+Merci de nous avoir prévenus. Pouvez-vous nous confirmer la nouvelle date de livraison et le numéro de suivi ? Nous mettons à jour le planning de réception de notre côté.
+
+Cordialement,
+Service Achats et Approvisionnement

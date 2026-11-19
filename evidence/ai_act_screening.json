@@ -1,0 +1,82 @@
+[
+  {
+    "use_case": "Assistant procédures Supply Chain",
+    "level": "transparence",
+    "references": [
+      "Art. 50, paragraphe 1 : informer les personnes qu'elles échangent avec une IA",
+      "Art. 50 : transparence sur les contenus générés par IA"
+    ],
+    "actions": [
+      "Afficher clairement que l'assistant est une IA",
+      "Signaler les contenus générés et garder une validation humaine avant diffusion"
+    ],
+    "date": "Obligations de transparence (art. 50) applicables depuis le 2 août 2026."
+  },
+  {
+    "use_case": "Brouillons de réponses aux fournisseurs",
+    "level": "transparence",
+    "references": [
+      "Art. 50 : transparence sur les contenus générés par IA",
+      "RGPD : base légale, minimisation, analyse d'impact (AIPD) si risque élevé"
+    ],
+    "actions": [
+      "Signaler les contenus générés et garder une validation humaine avant diffusion",
+      "Masquer les données personnelles avant envoi au modèle et vérifier le contrat du fournisseur"
+    ],
+    "date": "Obligations de transparence (art. 50) applicables depuis le 2 août 2026."
+  },
+  {
+    "use_case": "Résumé automatique de réunions internes",
+    "level": "transparence",
+    "references": [
+      "Art. 50 : transparence sur les contenus générés par IA",
+      "RGPD : base légale, minimisation, analyse d'impact (AIPD) si risque élevé"
+    ],
+    "actions": [
+      "Signaler les contenus générés et garder une validation humaine avant diffusion",
+      "Masquer les données personnelles avant envoi au modèle et vérifier le contrat du fournisseur"
+    ],
+    "date": "Obligations de transparence (art. 50) applicables depuis le 2 août 2026."
+  },
+  {
+    "use_case": "Tri automatique des CV candidats",
+    "level": "haut_risque",
+    "references": [
+      "Art. 6, paragraphe 2 et Annexe III, point 4 a) : recrutement et sélection",
+      "RGPD : base légale, minimisation, analyse d'impact (AIPD) si risque élevé"
+    ],
+    "actions": [
+      "Système de gestion des risques et documentation technique",
+      "Gouvernance des données et journalisation",
+      "Contrôle humain défini et formé",
+      "Impliquer juridique, DPO et sécurité avant tout pilote",
+      "Masquer les données personnelles avant envoi au modèle et vérifier le contrat du fournisseur"
+    ],
+    "date": "Obligations haut risque (annexe III) applicables au 2 décembre 2027."
+  },
+  {
+    "use_case": "Analyse des émotions des opérateurs par caméra",
+    "level": "interdit",
+    "references": [
+      "Art. 5, paragraphe 1, point f) : reconnaissance des émotions sur le lieu de travail"
+    ],
+    "actions": [
+      "Ne pas lancer le projet. Seules les raisons médicales ou de sécurité font exception."
+    ],
+    "date": "Interdictions applicables depuis le 2 février 2025."
+  },
+  {
+    "use_case": "Détection d'obstacles par IA sur une machine de manutention",
+    "level": "haut_risque",
+    "references": [
+      "Art. 6, paragraphe 1 et annexe I : composant de sécurité d'un produit réglementé (ex. machines)"
+    ],
+    "actions": [
+      "Système de gestion des risques et documentation technique",
+      "Gouvernance des données et journalisation",
+      "Contrôle humain défini et formé",
+      "Impliquer juridique, DPO et sécurité avant tout pilote"
+    ],
+    "date": "Obligations haut risque (annexe I, produits réglementés) applicables au 2 août 2028."
+  }
+]

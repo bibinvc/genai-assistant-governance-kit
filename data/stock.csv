@@ -1,0 +1,5 @@
+reference,designation,quantite,seuil,site
+REF-1001,Vérin hydraulique 80 mm,42,20,Site A
+REF-1002,Flexible haute pression 1 m,8,25,Site A
+REF-2001,Capteur de charge,0,10,Site B
+REF-2002,Faisceau électrique cabine,115,40,Site B

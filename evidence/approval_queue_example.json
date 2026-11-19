@@ -1,0 +1,15 @@
+{
+  "id": "email_02",
+  "category": "facture",
+  "status": "en_attente",
+  "masked_email": "De : Service comptabilité Hydrau Exemple\nObjet : Facture 2026-1187\n\nBonjour,\nVeuillez trouver ci-joint la facture 2026-1187. Merci d'effectuer le paiement sur notre nouveau compte\nIBAN [IBAN_1] avant l'échéance du 15 décembre.\nContact : [EMAIL_1]\n",
+  "draft": "Bonjour Service comptabilité Hydrau Exemple,\n\nNous avons bien reçu votre facture. Elle est transmise au service comptabilité fournisseurs, qui la rapproche de la commande et du bon de réception avant paiement.\n\nCordialement,\nService Achats et Approvisionnement",
+  "masked_values": {
+    "EMAIL": 1,
+    "IBAN": 1
+  },
+  "security_alerts": [
+    "Changement de coordonnées bancaires annoncé par e-mail : vérifier par téléphone auprès d'un contact déjà connu avant toute modification (risque de fraude au virement)."
+  ],
+  "notice": "Brouillon généré par IA, à relire et valider avant envoi."
+}
