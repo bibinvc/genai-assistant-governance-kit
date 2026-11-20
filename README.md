@@ -5,7 +5,7 @@ un assistant qui répond sur les procédures internes avec ses sources, un agent
 workflow automatisé avec validation humaine, des garde-fous RGPD et sécurité, une grille AI Act,
 une version no-code (Gemini Gem, GPT personnalisé, projet Claude, Apps Script) et un kit d'atelier.
 
-**Projet personnel assisté par IA, novembre 2026.** Toutes les données sont fictives : entreprise
+**Projet personnel, novembre 2026.** Toutes les données sont fictives : entreprise
 « Exemple Industrie », procédures, stocks et e-mails inventés.
 
 ## Contenu
